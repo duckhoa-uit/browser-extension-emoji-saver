@@ -1,0 +1,922 @@
+[
+  {
+    "emojiName": "grinning face with smiling eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f604"
+  },
+  {
+    "emojiName": "grinning face",
+    "date": "20201001",
+    "emojiUnicode": "u1f600"
+  },
+  {
+    "emojiName": "slightly smiling face",
+    "date": "20201001",
+    "emojiUnicode": "u1f642"
+  },
+  {
+    "emojiName": "upside-down face",
+    "date": "20201001",
+    "emojiUnicode": "u1f643"
+  },
+  {
+    "emojiName": "winking face",
+    "date": "20201001",
+    "emojiUnicode": "u1f609"
+  },
+  {
+    "emojiName": "smiling face with smiling eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f60a"
+  },
+  {
+    "emojiName": "grinning squinting face",
+    "date": "20201001",
+    "emojiUnicode": "u1f606"
+  },
+  {
+    "emojiName": "grinning face with big eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f603"
+  },
+  {
+    "emojiName": "beaming face with smiling eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f601"
+  },
+  {
+    "emojiName": "rolling on the floor laughing",
+    "date": "20201001",
+    "emojiUnicode": "u1f923"
+  },
+  {
+    "emojiName": "grinning face with sweat",
+    "date": "20201001",
+    "emojiUnicode": "u1f605"
+  },
+  {
+    "emojiName": "face with tears of joy",
+    "date": "20201001",
+    "emojiUnicode": "u1f602"
+  },
+  {
+    "emojiName": "smiling face with halo",
+    "date": "20201001",
+    "emojiUnicode": "u1f607"
+  },
+  {
+    "emojiName": "smiling face with hearts",
+    "date": "20201001",
+    "emojiUnicode": "u1f970"
+  },
+  {
+    "emojiName": "smiling face with heart-eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f60d"
+  },
+  {
+    "emojiName": "face blowing a kiss",
+    "date": "20201001",
+    "emojiUnicode": "u1f618"
+  },
+  {
+    "emojiName": "star-struck",
+    "date": "20201001",
+    "emojiUnicode": "u1f929"
+  },
+  {
+    "emojiName": "kissing face",
+    "date": "20201001",
+    "emojiUnicode": "u1f617"
+  },
+  {
+    "emojiName": "kissing face with closed eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f61a"
+  },
+  {
+    "emojiName": "kissing face with smiling eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f619"
+  },
+  {
+    "emojiName": "face with tongue",
+    "date": "20201001",
+    "emojiUnicode": "u1f61b"
+  },
+  {
+    "emojiName": "squinting face with tongue",
+    "date": "20201001",
+    "emojiUnicode": "u1f61d"
+  },
+  {
+    "emojiName": "face savoring food",
+    "date": "20201001",
+    "emojiUnicode": "u1f60b"
+  },
+  {
+    "emojiName": "smiling face with tear",
+    "date": "20201001",
+    "emojiUnicode": "u1f972"
+  },
+  {
+    "emojiName": "money-mouth face",
+    "date": "20201001",
+    "emojiUnicode": "u1f911"
+  },
+  {
+    "emojiName": "winking face with tongue",
+    "date": "20201001",
+    "emojiUnicode": "u1f61c"
+  },
+  {
+    "emojiName": "smiling face with open hands hugs",
+    "date": "20201001",
+    "emojiUnicode": "u1f917"
+  },
+  {
+    "emojiName": "shushing face quiet whisper",
+    "date": "20201001",
+    "emojiUnicode": "u1f92b"
+  },
+  {
+    "emojiName": "thinking face question hmmm",
+    "date": "20201001",
+    "emojiUnicode": "u1f914"
+  },
+  {
+    "emojiName": "face with hand over mouth embarrassed",
+    "date": "20201001",
+    "emojiUnicode": "u1f92d"
+  },
+  {
+    "emojiName": "face with raised eyebrow question",
+    "date": "20201001",
+    "emojiUnicode": "u1f928"
+  },
+  {
+    "emojiName": "zipper-mouth face",
+    "date": "20201001",
+    "emojiUnicode": "u1f910"
+  },
+  {
+    "emojiName": "neutral face",
+    "date": "20201001",
+    "emojiUnicode": "u1f610"
+  },
+  {
+    "emojiName": "expressionless face",
+    "date": "20201001",
+    "emojiUnicode": "u1f611"
+  },
+  {
+    "emojiName": "face without mouth",
+    "date": "20201001",
+    "emojiUnicode": "u1f636"
+  },
+  {
+    "emojiName": "zany face",
+    "date": "20201001",
+    "emojiUnicode": "u1f92a"
+  },
+  {
+    "emojiName": "face in clouds",
+    "date": "20210218",
+    "emojiUnicode": "u1f636"
+  },
+  {
+    "emojiName": "smirking face suspicious",
+    "date": "20201001",
+    "emojiUnicode": "u1f60f"
+  },
+  {
+    "emojiName": "unamused face",
+    "date": "20201001",
+    "emojiUnicode": "u1f612"
+  },
+  {
+    "emojiName": "face with rolling eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f644"
+  },
+  {
+    "emojiName": "grimacing face",
+    "date": "20201001",
+    "emojiUnicode": "u1f62c"
+  },
+  {
+    "emojiName": "face exhaling",
+    "date": "20210218",
+    "emojiUnicode": "u1f62e"
+  },
+  {
+    "emojiName": "lying face",
+    "date": "20201001",
+    "emojiUnicode": "u1f925"
+  },
+  {
+    "emojiName": "relieved face",
+    "date": "20201001",
+    "emojiUnicode": "u1f60c"
+  },
+  {
+    "emojiName": "pensive face",
+    "date": "20201001",
+    "emojiUnicode": "u1f614"
+  },
+  {
+    "emojiName": "sleepy face",
+    "date": "20201001",
+    "emojiUnicode": "u1f62a"
+  },
+  {
+    "emojiName": "drooling face",
+    "date": "20201001",
+    "emojiUnicode": "u1f924"
+  },
+  {
+    "emojiName": "sleeping face",
+    "date": "20201001",
+    "emojiUnicode": "u1f634"
+  },
+  {
+    "emojiName": "face with medical mask",
+    "date": "20201001",
+    "emojiUnicode": "u1f637"
+  },
+  {
+    "emojiName": "face with thermometer",
+    "date": "20201001",
+    "emojiUnicode": "u1f912"
+  },
+  {
+    "emojiName": "face with head-bandage",
+    "date": "20201001",
+    "emojiUnicode": "u1f915"
+  },
+  {
+    "emojiName": "nauseated face",
+    "date": "20201001",
+    "emojiUnicode": "u1f922"
+  },
+  {
+    "emojiName": "face vomiting throw",
+    "date": "20201001",
+    "emojiUnicode": "u1f92e"
+  },
+  {
+    "emojiName": "sneezing face",
+    "date": "20201001",
+    "emojiUnicode": "u1f927"
+  },
+  {
+    "emojiName": "hot face warm",
+    "date": "20201001",
+    "emojiUnicode": "u1f975"
+  },
+  {
+    "emojiName": "cold face freezing ice",
+    "date": "20201001",
+    "emojiUnicode": "u1f976"
+  },
+  {
+    "emojiName": "face with crossed-out eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f635"
+  },
+  {
+    "emojiName": "woozy face drunk tipsy drug high",
+    "date": "20201001",
+    "emojiUnicode": "u1f974"
+  },
+  {
+    "emojiName": "exploding head mindblow",
+    "date": "20201001",
+    "emojiUnicode": "u1f92f"
+  },
+  {
+    "emojiName": "cowboy hat face",
+    "date": "20201001",
+    "emojiUnicode": "u1f920"
+  },
+  {
+    "emojiName": "partying face",
+    "date": "20201001",
+    "emojiUnicode": "u1f973"
+  },
+  {
+    "emojiName": "disguised face",
+    "date": "20201001",
+    "emojiUnicode": "u1f978"
+  },
+  {
+    "emojiName": "face with monocle glasses",
+    "date": "20201001",
+    "emojiUnicode": "u1f9d0"
+  },
+  {
+    "emojiName": "smiling face with sunglasses",
+    "date": "20201001",
+    "emojiUnicode": "u1f60e"
+  },
+  {
+    "emojiName": "confused face",
+    "date": "20201001",
+    "emojiUnicode": "u1f615"
+  },
+  {
+    "emojiName": "worried face",
+    "date": "20201001",
+    "emojiUnicode": "u1f61f"
+  },
+  {
+    "emojiName": "slightly frowning face",
+    "date": "20201001",
+    "emojiUnicode": "u1f641"
+  },
+  {
+    "emojiName": "face with open mouth",
+    "date": "20201001",
+    "emojiUnicode": "u1f62e"
+  },
+  {
+    "emojiName": "hushed face",
+    "date": "20201001",
+    "emojiUnicode": "u1f62f"
+  },
+  {
+    "emojiName": "astonished face",
+    "date": "20201001",
+    "emojiUnicode": "u1f632"
+  },
+  {
+    "emojiName": "nerd face glasses",
+    "date": "20201001",
+    "emojiUnicode": "u1f913"
+  },
+  {
+    "emojiName": "flushed face",
+    "date": "20201001",
+    "emojiUnicode": "u1f633"
+  },
+  {
+    "emojiName": "pleading face",
+    "date": "20201001",
+    "emojiUnicode": "u1f97a"
+  },
+  {
+    "emojiName": "anguished face",
+    "date": "20201001",
+    "emojiUnicode": "u1f627"
+  },
+  {
+    "emojiName": "fearful face",
+    "date": "20201001",
+    "emojiUnicode": "u1f628"
+  },
+  {
+    "emojiName": "frowning face with open mouth",
+    "date": "20201001",
+    "emojiUnicode": "u1f626"
+  },
+  {
+    "emojiName": "anxious face with sweat",
+    "date": "20201001",
+    "emojiUnicode": "u1f630"
+  },
+  {
+    "emojiName": "sad but relieved face",
+    "date": "20201001",
+    "emojiUnicode": "u1f625"
+  },
+  {
+    "emojiName": "loudly crying face",
+    "date": "20201001",
+    "emojiUnicode": "u1f62d"
+  },
+  {
+    "emojiName": "weary face",
+    "date": "20201001",
+    "emojiUnicode": "u1f629"
+  },
+  {
+    "emojiName": "crying face",
+    "date": "20201001",
+    "emojiUnicode": "u1f622"
+  },
+  {
+    "emojiName": "persevering face",
+    "date": "20201001",
+    "emojiUnicode": "u1f623"
+  },
+  {
+    "emojiName": "angry face",
+    "date": "20201001",
+    "emojiUnicode": "u1f620"
+  },
+  {
+    "emojiName": "downcast face with sweat",
+    "date": "20201001",
+    "emojiUnicode": "u1f613"
+  },
+  {
+    "emojiName": "confounded face",
+    "date": "20201001",
+    "emojiUnicode": "u1f616"
+  },
+  {
+    "emojiName": "face with symbols on mouth",
+    "date": "20201001",
+    "emojiUnicode": "u1f92c"
+  },
+  {
+    "emojiName": "disappointed face",
+    "date": "20201001",
+    "emojiUnicode": "u1f61e"
+  },
+  {
+    "emojiName": "tired face",
+    "date": "20201001",
+    "emojiUnicode": "u1f62b"
+  },
+  {
+    "emojiName": "face with steam from nose",
+    "date": "20201001",
+    "emojiUnicode": "u1f624"
+  },
+  {
+    "emojiName": "yawning face",
+    "date": "20201001",
+    "emojiUnicode": "u1f971"
+  },
+  {
+    "emojiName": "pile of poo",
+    "date": "20201001",
+    "emojiUnicode": "u1f4a9"
+  },
+  {
+    "emojiName": "pouting face",
+    "date": "20201001",
+    "emojiUnicode": "u1f621"
+  },
+  {
+    "emojiName": "face screaming in fear",
+    "date": "20201001",
+    "emojiUnicode": "u1f631"
+  },
+  {
+    "emojiName": "angry face with horns",
+    "date": "20201001",
+    "emojiUnicode": "u1f47f"
+  },
+  {
+    "emojiName": "skull",
+    "date": "20201001",
+    "emojiUnicode": "u1f480"
+  },
+  {
+    "emojiName": "alien",
+    "date": "20201001",
+    "emojiUnicode": "u1f47d"
+  },
+  {
+    "emojiName": "smiling face with horns devil",
+    "date": "20201001",
+    "emojiUnicode": "u1f608"
+  },
+  {
+    "emojiName": "clown face",
+    "date": "20201001",
+    "emojiUnicode": "u1f921"
+  },
+  {
+    "emojiName": "ghost",
+    "date": "20201001",
+    "emojiUnicode": "u1f47b"
+  },
+  {
+    "emojiName": "robot",
+    "date": "20201001",
+    "emojiUnicode": "u1f916"
+  },
+  {
+    "emojiName": "hundred points percent",
+    "date": "20201001",
+    "emojiUnicode": "u1f4af"
+  },
+  {
+    "emojiName": "eyes",
+    "date": "20201001",
+    "emojiUnicode": "u1f440"
+  },
+  {
+    "emojiName": "rose flower",
+    "date": "20201001",
+    "emojiUnicode": "u1f339"
+  },
+  {
+    "emojiName": "blossom flower",
+    "date": "20201001",
+    "emojiUnicode": "u1f33c"
+  },
+  {
+    "emojiName": "tulip flower",
+    "date": "20201001",
+    "emojiUnicode": "u1f337"
+  },
+  {
+    "emojiName": "cactus",
+    "date": "20201001",
+    "emojiUnicode": "u1f335"
+  },
+  {
+    "emojiName": "pineapple",
+    "date": "20201001",
+    "emojiUnicode": "u1f34d"
+  },
+  {
+    "emojiName": "birthday cake",
+    "date": "20201001",
+    "emojiUnicode": "u1f382"
+  },
+  {
+    "emojiName": "sunset",
+    "date": "20210831",
+    "emojiUnicode": "u1f307"
+  },
+  {
+    "emojiName": "cupcake muffin",
+    "date": "20201001",
+    "emojiUnicode": "u1f9c1"
+  },
+  {
+    "emojiName": "headphone earphone",
+    "date": "20210521",
+    "emojiUnicode": "u1f3a7"
+  },
+  {
+    "emojiName": "cherry blossom flower",
+    "date": "20210218",
+    "emojiUnicode": "u1f338"
+  },
+  {
+    "emojiName": "microbe germ bacteria virus covid corona",
+    "date": "20201001",
+    "emojiUnicode": "u1f9a0"
+  },
+  {
+    "emojiName": "bouquet flowers",
+    "date": "20201001",
+    "emojiUnicode": "u1f490"
+  },
+  {
+    "emojiName": "hot dog food",
+    "date": "20201001",
+    "emojiUnicode": "u1f32d"
+  },
+  {
+    "emojiName": "kiss mark lips",
+    "date": "20201001",
+    "emojiUnicode": "u1f48b"
+  },
+  {
+    "emojiName": "jack-o-lantern pumpkin",
+    "date": "20201001",
+    "emojiUnicode": "u1f383"
+  },
+  {
+    "emojiName": "cheese wedge",
+    "date": "20201001",
+    "emojiUnicode": "u1f9c0"
+  },
+  {
+    "emojiName": "hot beverage coffee cup tea",
+    "date": "20201001",
+    "emojiUnicode": "u2615"
+  },
+  {
+    "emojiName": "confetti ball",
+    "date": "20201001",
+    "emojiUnicode": "u1f38a"
+  },
+  {
+    "emojiName": "balloon",
+    "date": "20201001",
+    "emojiUnicode": "u1f388"
+  },
+  {
+    "emojiName": "snowman without snow",
+    "date": "20201001",
+    "emojiUnicode": "u26c4"
+  },
+  {
+    "emojiName": "gem stone crystal diamond",
+    "date": "20201001",
+    "emojiUnicode": "u1f48e"
+  },
+  {
+    "emojiName": "evergreen tree",
+    "date": "20201001",
+    "emojiUnicode": "u1f332"
+  },
+  {
+    "emojiName": "lemon",
+    "date": "20210521",
+    "emojiUnicode": "u1f34b"
+  },
+  {
+    "emojiName": "scorpion",
+    "date": "20210218",
+    "emojiUnicode": "u1f982"
+  },
+  {
+    "emojiName": "see-no-evil monkey",
+    "date": "20201001",
+    "emojiUnicode": "u1f648"
+  },
+  {
+    "emojiName": "broken heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f494"
+  },
+  {
+    "emojiName": "love letter heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f48c"
+  },
+  {
+    "emojiName": "heart with arrow",
+    "date": "20201001",
+    "emojiUnicode": "u1f498"
+  },
+  {
+    "emojiName": "heart decoration",
+    "date": "20201001",
+    "emojiUnicode": "u1f49f"
+  },
+  {
+    "emojiName": "revolving hearts",
+    "date": "20201001",
+    "emojiUnicode": "u1f49e"
+  },
+  {
+    "emojiName": "beating heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f493"
+  },
+  {
+    "emojiName": "two hearts",
+    "date": "20201001",
+    "emojiUnicode": "u1f495"
+  },
+  {
+    "emojiName": "growing heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f497"
+  },
+  {
+    "emojiName": "orange heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f9e1"
+  },
+  {
+    "emojiName": "yellow heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f49b"
+  },
+  {
+    "emojiName": "mending heart",
+    "date": "20210218",
+    "emojiUnicode": "u2764"
+  },
+  {
+    "emojiName": "purple heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f49c"
+  },
+  {
+    "emojiName": "green heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f49a"
+  },
+  {
+    "emojiName": "blue heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f499"
+  },
+  {
+    "emojiName": "brown heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f90e"
+  },
+  {
+    "emojiName": "white heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f90d"
+  },
+  {
+    "emojiName": "black heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f5a4"
+  },
+  {
+    "emojiName": "sparkling heart",
+    "date": "20201001",
+    "emojiUnicode": "u1f496"
+  },
+  {
+    "emojiName": "heart with ribbon",
+    "date": "20201001",
+    "emojiUnicode": "u1f49d"
+  },
+  {
+    "emojiName": "bread",
+    "date": "20210831",
+    "emojiUnicode": "u1f35e"
+  },
+  {
+    "emojiName": "newspaper",
+    "date": "20201001",
+    "emojiUnicode": "u1f4f0"
+  },
+  {
+    "emojiName": "crystal ball",
+    "date": "20201001",
+    "emojiUnicode": "u1f52e"
+  },
+  {
+    "emojiName": "crown",
+    "date": "20201001",
+    "emojiUnicode": "u1f451"
+  },
+  {
+    "emojiName": "pig face",
+    "date": "20201001",
+    "emojiUnicode": "u1f437"
+  },
+  {
+    "emojiName": "unicorn",
+    "date": "20210831",
+    "emojiUnicode": "u1f984"
+  },
+  {
+    "emojiName": "first quarter moon face",
+    "date": "20201001",
+    "emojiUnicode": "u1f31b"
+  },
+  {
+    "emojiName": "deer",
+    "date": "20201001",
+    "emojiUnicode": "u1f98c"
+  },
+  {
+    "emojiName": "magic wand",
+    "date": "20210521",
+    "emojiUnicode": "u1fa84"
+  },
+  {
+    "emojiName": "dizzy",
+    "date": "20201001",
+    "emojiUnicode": "u1f4ab"
+  },
+  {
+    "emojiName": "meow cat face",
+    "date": "20201001",
+    "emojiUnicode": "u1f431"
+  },
+  {
+    "emojiName": "lion",
+    "date": "20201001",
+    "emojiUnicode": "u1f981"
+  },
+  {
+    "emojiName": "fire",
+    "date": "20201001",
+    "emojiUnicode": "u1f525"
+  },
+  {
+    "emojiName": "bird",
+    "date": "20210831",
+    "emojiUnicode": "u1f426"
+  },
+  {
+    "emojiName": "bat",
+    "date": "20201001",
+    "emojiUnicode": "u1f987"
+  },
+  {
+    "emojiName": "owl",
+    "date": "20210831",
+    "emojiUnicode": "u1f989"
+  },
+  {
+    "emojiName": "strawberry",
+    "date": "20210831",
+    "emojiUnicode": "u1f353"
+  },
+  {
+    "emojiName": "rainbow",
+    "date": "20201001",
+    "emojiUnicode": "u1f308"
+  },
+  {
+    "emojiName": "monkey face",
+    "date": "20201001",
+    "emojiUnicode": "u1f435"
+  },
+  {
+    "emojiName": "honeybee bumblebee wasp",
+    "date": "20201001",
+    "emojiUnicode": "u1f41d"
+  },
+  {
+    "emojiName": "turtle",
+    "date": "20201001",
+    "emojiUnicode": "u1f422"
+  },
+  {
+    "emojiName": "octopus",
+    "date": "20201001",
+    "emojiUnicode": "u1f419"
+  },
+  {
+    "emojiName": "llama alpaca",
+    "date": "20201001",
+    "emojiUnicode": "u1f999"
+  },
+  {
+    "emojiName": "goat",
+    "date": "20210831",
+    "emojiUnicode": "u1f410"
+  },
+  {
+    "emojiName": "panda",
+    "date": "20201001",
+    "emojiUnicode": "u1f43c"
+  },
+  {
+    "emojiName": "koala",
+    "date": "20201001",
+    "emojiUnicode": "u1f428"
+  },
+  {
+    "emojiName": "sloth",
+    "date": "20201001",
+    "emojiUnicode": "u1f9a5"
+  },
+  {
+    "emojiName": "bear",
+    "date": "20210831",
+    "emojiUnicode": "u1f43b"
+  },
+  {
+    "emojiName": "rabbit face",
+    "date": "20201001",
+    "emojiUnicode": "u1f430"
+  },
+  {
+    "emojiName": "hedgehog",
+    "date": "20201001",
+    "emojiUnicode": "u1f994"
+  },
+  {
+    "emojiName": "snail",
+    "date": "20210218",
+    "emojiUnicode": "u1f40c"
+  },
+  {
+    "emojiName": "mouse face rat",
+    "date": "20201001",
+    "emojiUnicode": "u1f42d"
+  },
+  {
+    "emojiName": "fish",
+    "date": "20210831",
+    "emojiUnicode": "u1f41f"
+  },
+  {
+    "emojiName": "globe showing Europe-Africa",
+    "date": "20201001",
+    "emojiUnicode": "u1f30d"
+  },
+  {
+    "emojiName": "sun with face",
+    "date": "20201001",
+    "emojiUnicode": "u1f31e"
+  },
+  {
+    "emojiName": "glowing star",
+    "date": "20201001",
+    "emojiUnicode": "u1f31f"
+  },
+  {
+    "emojiName": "star",
+    "date": "20201001",
+    "emojiUnicode": "u2b50"
+  },
+  {
+    "emojiName": "last quarter moon face",
+    "date": "20201001",
+    "emojiUnicode": "u1f31c"
+  }
+]
