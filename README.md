@@ -60,7 +60,7 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 
 ### Popup <a name="popup"></a>
 
-<img width="400" alt="popup" src="https://raw.githubusercontent.com/duckhoa-uit/browser-extension-emoji-saver/main/screenshots/popup/list.png/assets/agents-cover.png">
+<img width="400" alt="popup" src="https://raw.githubusercontent.com/duckhoa-uit/browser-extension-emoji-saver/main/screenshots/popup/list.png">
 
 ## Documents <a name="documents"></a>
 - [Vite Plugin](https://vitejs.dev/guide/api-plugin.html)
