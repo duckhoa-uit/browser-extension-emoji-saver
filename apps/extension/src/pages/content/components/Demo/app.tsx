@@ -1,18 +1,15 @@
-import useStorage from "@root/src/shared/hooks/useStorage";
-import exampleThemeStorage from "@root/src/shared/storages/exampleThemeStorage";
+import supportEmojis from "@assets/supported_emojis.json";
 import savedEmojisStorage from "@root/src/shared/storages/savedEmojiStorage";
 import { useEffect } from "react";
-import supportEmojis from "@assets/supported_emojis.json";
 
 export default function App() {
-  const theme = useStorage(exampleThemeStorage);
-  const savedList = useStorage(savedEmojisStorage);
-
   useEffect(() => {
     console.log("content view loaded");
 
     // Append save emoji button
     const container = document.querySelector(".ZRmW8c");
+    if (!container) return;
+
     const saveBtn = document.createElement("div");
     saveBtn.classList.add("imjQdf");
 
