@@ -33,8 +33,5 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Run rollup
-        run: pnpm build:hmr
-
       - name: Test
-        run: pnpm test
+        run: pnpm test:extension

@@ -2,8 +2,10 @@
   "extends": ["//"],
   "pipeline": {
     "test": {
-      "dependsOn": ["build"]
+      "dependsOn": ["build:hmr"]
     },
-    "build": {}
+    "build:hmr": {
+      "cache": false
+    }
   }
 }
