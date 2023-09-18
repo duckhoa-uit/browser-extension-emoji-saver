@@ -1,15 +1,13 @@
 <div align="center">
-<img src="public/icon-192.png" alt="logo"/>
-<h1> Chrome Extension Boilerplate with<br/>React + Vite + TypeScript</h1>
+<img src="apps/extension/public/icon-192.png" alt="logo"/>
+<h1> Emoji Saver - Chrome Extension</h1>
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://badges.aleen42.com/src/vitejs.svg)
-![GitHub action badge](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/actions/workflows/build-zip.yml/badge.svg)
+![GitHub action badge](https://github.com/duckhoa-uit/browser-extension-emoji-saver/actions/workflows/build-zip.yml/badge.svg)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jonghakseo/chrome-extension-boilerplate-react-viteFactions&count_bg=%23#222222&title_bg=%23#454545&title=😀&edge_flat=true" alt="hits"/>
 
-
-> This project is listed in the [Awesome Vite](https://github.com/vitejs/awesome-vite)
 
 </div>
 
@@ -21,9 +19,7 @@
 - [Installation ](#installation-)
   - [Procedures ](#procedures-)
 - [Screenshots ](#screenshots-)
-  - [New Tab ](#new-tab-)
   - [Popup ](#popup-)
-- [Examples ](#examples-)
 - [Documents ](#documents-)
 - [Star History](#star-history)
 - [Thanks To](#thanks-to)
@@ -35,7 +31,7 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 ## Features <a name="features"></a>
 - [React 18](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Jest](https://jestjs.io/)
+- [Vitest](https://vitest.dev/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Vite](https://vitejs.dev/)
 - [SASS](https://sass-lang.com/)
@@ -62,18 +58,9 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 
 ## Screenshots <a name="screenshots"></a>
 
-### New Tab <a name="newtab"></a>
-
-<img width="971" src="https://user-images.githubusercontent.com/53500778/162631646-cd40976b-b737-43d0-8e6a-6ac090a2e2d4.png">
-
 ### Popup <a name="popup"></a>
 
-<img width="314" alt="popup" src="https://user-images.githubusercontent.com/53500778/203561728-23517d46-12e3-4139-8a4f-e0b2f22a6ab3.png">
-
-## Examples <a name="examples"></a>
-- https://github.com/Jonghakseo/drag-gpt-extension
-- https://github.com/Jonghakseo/pr-commit-noti
-- https://github.com/ariburaco/chatgpt-file-uploader-extended
+<img width="400" alt="popup" src="https://raw.githubusercontent.com/duckhoa-uit/browser-extension-emoji-saver/main/screenshots/popup/list.png/assets/agents-cover.png">
 
 ## Documents <a name="documents"></a>
 - [Vite Plugin](https://vitejs.dev/guide/api-plugin.html)
@@ -84,7 +71,7 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Jonghakseo/chrome-extension-boilerplate-react-vite&type=Date)](https://star-history.com/#Jonghakseo/chrome-extension-boilerplate-react-vite&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=duckhoa-uit/browser-extension-emoji-saver&type=Date)](https://star-history.com/#duckhoa-uit/browser-extension-emoji-saver&Date)
 
 
 
