@@ -1,3 +1,4 @@
+/// <reference types="vitest" />
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path, { resolve } from "path";
@@ -21,6 +22,12 @@ const isProduction = !isDev;
 const enableHmrInBackgroundScript = true;
 
 export default defineConfig({
+  test: {
+    include: ["src/**/*.test.ts(x)", "!src/tests"],
+    setupFiles: ["tests/vitest.setup.ts"],
+    globals: true,
+    environment: "jsdom",
+  },
   resolve: {
     alias: {
       "@root": rootDir,
@@ -30,7 +37,7 @@ export default defineConfig({
     },
   },
   plugins: [
-    react(),
+    react({ fastRefresh: false }),
     makeManifest(manifest, {
       isDev,
       contentScriptCssKey: regenerateCacheInvalidationKey(),
@@ -43,7 +50,7 @@ export default defineConfig({
   build: {
     outDir,
     /** Can slowDown build speed. */
-    // sourcemap: isDev,
+    sourcemap: isDev,
     minify: isProduction,
     reportCompressedSize: isProduction,
     rollupOptions: {
