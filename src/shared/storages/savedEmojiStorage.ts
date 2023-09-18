@@ -27,10 +27,14 @@ const savedEmojisStorage: ThemeStorage = {
           (item) => item.includes(emojis[0]) && item.includes(emojis[1])
         ) >= 0;
       console.log("🚀 checking:", currentList, emojis, emojisExists);
-      if (emojisExists) return currentList;
+      if (emojisExists) {
+        alert("Bạn đã lưu emoji này rồi :(");
+        return currentList;
+      }
 
       console.log("🚀 saved:", emojis);
 
+      alert("Đã lưu emoji");
       return [emojis, ...currentList];
     });
   },

@@ -5,7 +5,7 @@ import packageJson from "./package.json";
  */
 const manifest: chrome.runtime.ManifestV3 = {
   manifest_version: 3,
-  name: packageJson.name,
+  name: "Emoji Kitchen Saver",
   version: packageJson.version,
   description: packageJson.description,
   permissions: ["storage"],
@@ -16,17 +16,20 @@ const manifest: chrome.runtime.ManifestV3 = {
   },
   action: {
     default_popup: "src/pages/popup/index.html",
-    default_icon: "icon-34.png",
+    default_icon: "icon-32.png",
   },
   // chrome_url_overrides: {
   //   newtab: "src/pages/newtab/index.html",
   // },
   icons: {
-    "128": "icon-128.png",
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "192": "icon-192.png",
+    "512": "icon-512.png",
   },
   content_scripts: [
     {
-      matches: ["http://*/*", "https://*/*", "<all_urls>"],
+      matches: ["*://*.google.com/*"],
       js: ["src/pages/content/index.js"],
       // KEY for cache invalidation
       css: ["assets/css/contentStyle<KEY>.chunk.css"],
@@ -38,8 +41,10 @@ const manifest: chrome.runtime.ManifestV3 = {
       resources: [
         "assets/js/*.js",
         "assets/css/*.css",
-        "icon-128.png",
-        "icon-34.png",
+        "icon-16.png",
+        "icon-32.png",
+        "icon-192.png",
+        "icon-512.png",
       ],
       matches: ["*://*/*"],
     },

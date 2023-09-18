@@ -1,5 +1,5 @@
 <div align="center">
-<img src="public/icon-128.png" alt="logo"/>
+<img src="public/icon-192.png" alt="logo"/>
 <h1> Chrome Extension Boilerplate with<br/>React + Vite + TypeScript</h1>
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -15,15 +15,18 @@
 
 ## Table of Contents
 
-- [Intro](#intro)
-- [Features](#features)
-- [Installation](#installation)
-  - [Procedures](#procedures)
-- [Screenshots](#screenshots)
-  - [NewTab](#newtab)
-  - [Popup](#popup)  
-- [Examples](#examples)
-- [Documents](#documents)
+- [Table of Contents](#table-of-contents)
+- [Intro ](#intro-)
+- [Features ](#features-)
+- [Installation ](#installation-)
+  - [Procedures ](#procedures-)
+- [Screenshots ](#screenshots-)
+  - [New Tab ](#new-tab-)
+  - [Popup ](#popup-)
+- [Examples ](#examples-)
+- [Documents ](#documents-)
+- [Star History](#star-history)
+- [Thanks To](#thanks-to)
 
 ## Intro <a name="intro"></a>
 This boilerplate is made for creating chrome extensions using React and Typescript.
@@ -46,7 +49,7 @@ This boilerplate is made for creating chrome extensions using React and Typescri
 
 ### Procedures <a name="procedures"></a>
 1. Clone this repository.
-2. Change `name` and `description` in package.json => **Auto synchronize with manifest** 
+2. Change `name` and `description` in package.json => **Auto synchronize with manifest**
 3. Run `yarn install` or `npm i` (check your node version >= 16.6, recommended >= 18)
 4. Run `yarn dev` or `npm run dev`
 5. Load Extension on Chrome

@@ -1,39 +1,47 @@
-import React from "react";
+import React, { ForwardedRef, forwardRef, useEffect, useState } from "react";
 
-export function CopyButton({ onClick }: { onClick?: () => void }) {
-  const [copied, setCopied] = React.useState(false);
-
-  React.useEffect(() => {
-    const timeout = setTimeout(() => {
-      if (copied) setCopied(false);
-    }, 1000);
-
-    return () => clearTimeout(timeout);
-  }, [copied]);
-
-  return (
-    <button
-      onClick={() => {
-        setCopied(true);
-        onClick?.();
-      }}
-      className="appearance-none p-2 border-0 outline-0 cursor-pointer"
-    >
-      <div className="relative w-4 h-4">
-        <Clippy
-          strokeDasharray={50}
-          strokeDashoffset={copied ? -50 : 0}
-          className="text-gray-800 absolute top-0 left-0 transition-all"
-        />
-        <Check
-          strokeDasharray={50}
-          strokeDashoffset={copied ? 0 : -50}
-          className="text-green-500 absolute top-0 left-0 transition-all"
-        />
-      </div>
-    </button>
-  );
+interface CopyButtonProps {
+  onClick?: () => void;
 }
+
+export const CopyButton = forwardRef(
+  ({ onClick }: CopyButtonProps, ref: ForwardedRef<HTMLButtonElement>) => {
+    const [copied, setCopied] = useState(false);
+
+    useEffect(() => {
+      const timeout = setTimeout(() => {
+        if (copied) setCopied(false);
+      }, 1000);
+
+      return () => clearTimeout(timeout);
+    }, [copied]);
+
+    return (
+      <button
+        ref={ref}
+        onClick={() => {
+          setCopied(true);
+          onClick?.();
+        }}
+        className="hover:bg-[#303134] cursor-pointer rounded-lg appearance-none p-2 border-0 outline-0 cursor-pointer"
+      >
+        <div className="relative w-4 h-4">
+          <Clippy
+            strokeDasharray={50}
+            strokeDashoffset={copied ? -50 : 0}
+            className="text-gray-800 absolute top-0 left-0 transition-all"
+          />
+          <Check
+            strokeDasharray={50}
+            strokeDashoffset={copied ? 0 : -50}
+            className="text-green-500 absolute top-0 left-0 transition-all"
+          />
+        </div>
+      </button>
+    );
+  }
+);
+CopyButton.displayName = "CopyButton";
 
 function Clippy(props: React.SVGProps<SVGSVGElement>) {
   return (
