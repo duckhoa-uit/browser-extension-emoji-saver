@@ -1,5 +1,5 @@
 {
-  "name": "extension-emoji-saver",
+  "name": "@emoji-saver/extension-emoji-saver",
   "version": "0.0.1",
   "description": "chrome extension mixed emoji saver",
   "license": "MIT",

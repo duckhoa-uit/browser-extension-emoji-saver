@@ -1,0 +1,11 @@
+{
+  "name": "@emoji-saver/dayjs",
+  "description": "Emoji Saver's Day.js shared library",
+  "private": true,
+  "version": "1.0.0",
+  "main": "./index.ts",
+  "dependencies": {
+    "dayjs": "1.11.2",
+    "dayjs-business-days2": "1.1.0"
+  }
+}
