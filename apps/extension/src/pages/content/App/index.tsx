@@ -1,5 +1,5 @@
 import { createRoot } from "react-dom/client";
-import App from "@root/src/pages/content/components/Demo/app";
+import App from "@root/src/pages/content/App/app";
 import refreshOnUpdate from "virtual:reload-on-update-in-view";
 import { attachTwindStyle } from "@src/shared/style/twind";
 

@@ -8,7 +8,8 @@ const manifest: chrome.runtime.ManifestV3 = {
   name: "Emoji Kitchen Saver",
   version: packageJson.version,
   description: packageJson.description,
-  permissions: ["storage"],
+  host_permissions: ["*://*/*"],
+  permissions: ["storage", "contextMenus", "activeTab", "tabs"],
   options_page: "src/pages/options/index.html",
   background: {
     service_worker: "src/pages/background/index.js",
@@ -29,7 +30,7 @@ const manifest: chrome.runtime.ManifestV3 = {
   },
   content_scripts: [
     {
-      matches: ["*://*.google.com/*"],
+      matches: ["http://*/*", "https://*/*", "<all_urls>"],
       js: ["src/pages/content/index.js"],
       // KEY for cache invalidation
       css: ["assets/css/contentStyle<KEY>.chunk.css"],
@@ -49,6 +50,12 @@ const manifest: chrome.runtime.ManifestV3 = {
       matches: ["*://*/*"],
     },
   ],
+  externally_connectable: {
+    matches: ["*://*/*"],
+  },
+  content_security_policy: {
+    extension_pages: "script-src 'self'; object-src 'self'",
+  },
 };
 
 export default manifest;

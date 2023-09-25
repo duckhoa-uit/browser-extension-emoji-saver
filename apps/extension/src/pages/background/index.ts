@@ -1,4 +1,6 @@
+import { onInstall, openOptionsPage } from "@root/src/extension/runtime";
 import reloadOnUpdate from "virtual:reload-on-update-in-background-script";
+import { initContextMenus } from "./context-menu";
 
 reloadOnUpdate("pages/background");
 
@@ -8,4 +10,12 @@ reloadOnUpdate("pages/background");
  */
 reloadOnUpdate("pages/content/style.scss");
 
-console.log("background loaded");
+onInstall((reason) => {
+  if (reason === "install") {
+    openOptionsPage();
+  }
+});
+
+initContextMenus()
+  .then(() => console.log("background loaded"))
+  .catch(console.error);

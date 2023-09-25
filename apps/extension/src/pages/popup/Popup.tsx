@@ -1,6 +1,7 @@
 import supportEmojis from "@assets/supported_emojis.json";
 import "@pages/popup/Popup.css";
 import { CopyButton } from "@root/src/components/copy-button";
+import EmptyBox from "@root/src/components/empty-box";
 import savedEmojisStorage, {
   MixedEmoji,
 } from "@root/src/shared/storages/savedEmojiStorage";
@@ -8,9 +9,6 @@ import { copyImageToClipboard } from "@root/utils/clipboard";
 import withSuspense from "@src/shared/hoc/withSuspense";
 import useStorage from "@src/shared/hooks/useStorage";
 import exampleThemeStorage from "@src/shared/storages/exampleThemeStorage";
-import { useRef } from "react";
-import emptyStateImg from "@assets/img/box.png";
-import EmptyBox from "@root/src/components/empty-box";
 
 const getEmojiDate = (emoji: string) => {
   const foundEmoji = supportEmojis.find((_) => _.emojiUnicode === emoji);

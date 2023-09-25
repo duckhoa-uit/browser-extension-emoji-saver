@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+npx --no -- commitlint --edit ${1} ||
+(
+  echo '✍📤 It seems that the format of the commit does not follow the conventional commit convention.';
+  false;
+)

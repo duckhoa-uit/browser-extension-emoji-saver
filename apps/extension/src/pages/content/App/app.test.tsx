@@ -1,4 +1,4 @@
-import App from "@root/src/pages/content/components/Demo/app";
+import App from "@root/src/pages/content/App/app";
 import { render, screen } from "@testing-library/react";
 import { describe, test } from "vitest";
 

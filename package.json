@@ -9,10 +9,15 @@
     "lint": "turbo lint",
     "test": "turbo test",
     "test:extension": "turbo test --filter=extension-emoji-saver",
-    "typecheck": "turbo typecheck"
+    "typecheck": "turbo typecheck",
+    "prepare": "husky install"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
     "eslint": "^8.49.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1",
     "prettier": "^3.0.3",
     "tsconfig": "workspace:*",
     "turbo": "^1.10.14"
